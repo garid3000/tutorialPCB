@@ -1,4 +1,4 @@
-(module 4881-Top (layer F.Cu) (tedit 5FE88A18)
+(module 4881-Top (layer F.Cu) (tedit 5FE9E3C4)
   (fp_text reference REF** (at 0 0.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -6,4 +6,9 @@
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (pad 1 thru_hole circle (at 0 0) (size 6.5 6.5) (drill 4.2) (layers F.Cu F.Mask))
+  (model "${KIPRJMOD}/3d files/keystone-PN4881.STEP"
+    (offset (xyz 0 0 -1.5))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
 )
