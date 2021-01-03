@@ -1,4 +1,4 @@
-18979993863018105
+18981603863624105
 ABC
 4881
 
@@ -20,6 +20,13 @@ BG96
 0
 102
 102
+ABC
+KiCad-Logo_5mm_SilkScreen-rpi-module
+KiCad Logo
+Logo KiCad
+0
+0
+0
 ABC
 PinSocket_2x20_P2.54mm_Vertical-CENTER
 Through hole straight socket strip, 2x20, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
