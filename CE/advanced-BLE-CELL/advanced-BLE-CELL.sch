@@ -649,4 +649,26 @@ F 3 "" H 10400 6950 60  0001 C CNN
 	1    10500 6950
 	1    0    0    -1  
 $EndComp
+$Comp
+L Connector:USB_C_Plug_USB2.0 P1
+U 1 1 5FF3FC99
+P 17700 8100
+F 0 "P1" H 17807 8967 50  0000 C CNN
+F 1 "USB_C_Plug_USB2.0" H 17807 8876 50  0000 C CNN
+F 2 "Connector_USB:USB_C_Receptacle_Palconn_UTC16-G" H 17850 8100 50  0001 C CNN
+F 3 "https://www.usb.org/sites/default/files/documents/usb_type-c.zip" H 17850 8100 50  0001 C CNN
+	1    17700 8100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x02_Male J1
+U 1 1 5FF4F6D5
+P 18300 9250
+F 0 "J1" H 18408 9431 50  0000 C CNN
+F 1 "Conn_01x02_Male" H 18408 9340 50  0000 C CNN
+F 2 "Connector_JST:JST_PH_S2B-PH-SM4-TB_1x02-1MP_P2.00mm_Horizontal" H 18300 9250 50  0001 C CNN
+F 3 "~" H 18300 9250 50  0001 C CNN
+	1    18300 9250
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
